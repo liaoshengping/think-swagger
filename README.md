@@ -93,6 +93,9 @@ $ composer require liaosp/think-swagger -vvv
 
 [如何写composer包](https://blog.csdn.net/qq_22823581/article/details/120035631)
 
+[如何写这个包](https://blog.csdn.net/qq_22823581/article/details/120327505?spm=1001.2014.3001.5501)
+
+
 ## Contributing
 
 You can contribute in one of three ways:
