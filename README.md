@@ -3,7 +3,8 @@
 
 ![](image.jpg)
 
-<p align="center"> thinkphp 自动生成swagger文档 swagger-ui</p>
+<p align="center"> thinkphp5 自动生成swagger文档 swagger-ui  </p>
+
 
 [![Latest Stable Version](https://poser.pugx.org/liaosp/think-swagger/v/stable)](https://packagist.org/packages/liaosp/laravel-validate-ext)
 [![Total Downloads](https://poser.pugx.org/liaosp/think-swagger/downloads)](https://packagist.org/packages/liaosp/laravel-validate-ext)
@@ -11,6 +12,8 @@
 [![License](https://poser.pugx.org/liaosp/think-swagger/license)](https://packagist.org/packages/liaosp/laravel-validate-ext)
 [![StyleCI](https://styleci.io/repos/53163405/shield)](https://styleci.io/repos/53163405/)
 
+
+<p color="red">TP6 后续发布</p>
 
 ## Installing
 
