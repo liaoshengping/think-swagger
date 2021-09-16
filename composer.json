@@ -1,0 +1,30 @@
+{
+    "name": "liaosp/think-swagger",
+    "description": "thinkphp apidoc gen think-swagger swaggerv3",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liaosp",
+            "email": "1194008361@qq.com"
+        }
+    ],
+    "require": {
+        "zircote/swagger-php": "^3.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Liaosp\\ThinkSwagger\\": "src"
+        },
+        "files": [
+            "src/route.php"
+        ]
+    },
+    "extra": {
+        "think": {
+            "services": [
+                "Liaosp\\ThinkSwagger\\Service"
+            ]
+        }
+    }
+
+}
