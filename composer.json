@@ -25,6 +25,8 @@
                 "Liaosp\\ThinkSwagger\\Service"
             ]
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 
 }
